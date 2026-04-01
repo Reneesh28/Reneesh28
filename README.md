@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Reneesh.<br>I’m a full-stack developer and applied AI engineer who builds scalable<br>analytics platforms, intelligent dashboards, and GenAI-powered systems.<br>I work at the intersection of backend systems, frontend experience,<br>and data intelligence—focusing on clarity, performance,<br>and real-world impact. My projects range from large-scale<br>session analytics and comparison engines to LLM-driven applications<br>using RAG, memory, and modern AI frameworks.
+Hi, I’m Reneesh.<br>I’m a full-stack developer and applied AI engineer who builds scalable<br>analytics platforms, intelligent dashboards, and GenAI powered systems.<br>I work at the intersection of backend systems, frontend experience,<br>and data intelligence focusing on clarity, performance,<br>and real-world impact. My projects range from large-scale<br>session analytics and comparison engines to LLM-driven applications<br>using RAG, memory, and modern AI frameworks.
 
 
 ## 🌐 Socials:
